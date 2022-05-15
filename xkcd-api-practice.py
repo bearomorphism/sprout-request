@@ -15,24 +15,5 @@ Path("./images").mkdir(parents=True, exist_ok=True)
 
 
 '''
-Hint
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1. res.ok
-2. 用 split 取得檔名
+Hint: res.ok
 '''
